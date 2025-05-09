@@ -1,0 +1,21 @@
+
+body {
+font-family: "Inter", sans-serif;
+
+    }
+.head {
+    text-align: center;
+}
+
+main {
+    text-align: justify;
+}
+
+#Box {
+    text-shadow: 4px 4px 4px gray;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    
+}
